@@ -1,6 +1,6 @@
 # csitascol
 
-By default, the config files have been setup in followinf format:
+By default, the config files have been setup in following format:
 {
   host: "localhost"
   username: "root"
